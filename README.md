@@ -1,6 +1,7 @@
 # vetero-temo-spurado
-Problemoj kaj plibonigaj petoj | Bugs and enhancement requests
 
-Bonvolu raporti problemojn aŭ aldoni komentojn en Esperanto aŭ la angla, se eble. Dankon.
+<h2>Problemoj kaj plibonigaj petoj</h2>
+<p>Bonvolu raporti problemojn aŭ aldoni komentojn en Esperanto aŭ la angla, se eble. Dankon.</p>
 
-Please report issues or add comments in English or Esperanto, if possible. Thank you.
+<h2>Bugs and enhancement requests</h2>
+<p>Please report issues or add comments in English or Esperanto, if possible. Thank you.</p>
