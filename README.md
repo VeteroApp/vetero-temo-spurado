@@ -7,5 +7,5 @@
 
 <h2>Esperanto</h2>
 <h3>Problemoj kaj plibonigaj petoj</h3>
-<p>Bonvolu raporti problemojn aŭ aldoni komentojn en Esperanto aŭ la angla, se eble. Dankon.</p>
+<p>Bonvolu raporti novajn problemojn aŭ aldoni komentojn en Esperanto aŭ la angla, se eble. Dankon.</p>
 <p>Aliru la liston <a href="https://github.com/VeteroApp/vetero-temo-spurado/issues">ĉi tie</a>.</p>
